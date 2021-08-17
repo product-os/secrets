@@ -6,9 +6,8 @@ name: Sync Files
 
 on:
   push:
-    tags:
-      - '*'
-  workflow_dispatch:
+    branches:
+      - master
 
 jobs:
   sync:
