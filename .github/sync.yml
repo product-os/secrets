@@ -1,0 +1,8 @@
+group:
+  - files:
+    - source: .gitsecret/
+      dest: .gitsecret/
+    - source: secrets/
+      dest: .balena/secrets/
+    repos: |
+      product-os/jellyfish-plugin-typeform
