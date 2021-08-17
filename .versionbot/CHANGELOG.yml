@@ -1,4 +1,17 @@
 - commits:
+    - subject: Move secrets path to match consumers
+      hash: 50367d283e1c6cfc62c79faa5d2d9a7e721af9cb
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.3
+  date: 2021-08-17T05:55:59.573Z
+- commits:
     - subject: Add base repo files
       hash: 4223bb6ad0fef93ad3f3a7f63229ed5df989b5e1
       body: ''
