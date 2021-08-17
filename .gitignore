@@ -3,3 +3,4 @@ node_modules
 !*.secret
 .balena/secrets/npmrc.txt
 .balena/secrets/npm-token.txt
+.balena/secrets/integration-typeform-signature-key.txt
