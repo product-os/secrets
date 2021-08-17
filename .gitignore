@@ -1,0 +1,4 @@
+.gitsecret/keys/random_seed
+!*.secret
+secrets/npm-token.txt
+secrets/npmrc.txt
