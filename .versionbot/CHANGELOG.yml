@@ -1,0 +1,43 @@
+- commits:
+    - subject: Add base repo files
+      hash: 4223bb6ad0fef93ad3f3a7f63229ed5df989b5e1
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+    - subject: Update workflow trigger
+      hash: b5d650fcb5865a8b77fea90942db24ec802d7b3c
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+    - subject: Add file sync GitHub workflow
+      hash: d769c0080bdabbfb7339073b479dd15e4f61bec1
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+    - subject: 'Add NPM_TOKEN secret, grant access'
+      hash: 7e17914cbe1aefd17b2e93143b9491e4cb60cb73
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.2
+  date: 2021-08-17T05:37:48.853Z
