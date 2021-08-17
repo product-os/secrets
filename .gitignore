@@ -1,5 +1,5 @@
 node_modules
 .gitsecret/keys/random_seed
 !*.secret
-secrets/npm-token.txt
-secrets/npmrc.txt
+.balena/secrets/npmrc.txt
+.balena/secrets/npm-token.txt
