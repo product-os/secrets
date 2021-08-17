@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add typeform secrets
+      hash: 66a7513ea99ffc49b57969538516e12e970cdf83
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.4
+  date: 2021-08-17T08:18:09.300Z
+- commits:
     - subject: Move secrets path to match consumers
       hash: 50367d283e1c6cfc62c79faa5d2d9a7e721af9cb
       body: ''
