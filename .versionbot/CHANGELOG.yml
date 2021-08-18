@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update secret filenames with underscores
+      hash: 2214f0a2de41fb5b75d3fe576c4a8c7b9337c3fe
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.5
+  date: 2021-08-18T06:03:13.041Z
+- commits:
     - subject: Add typeform secrets
       hash: 66a7513ea99ffc49b57969538516e12e970cdf83
       body: ''
