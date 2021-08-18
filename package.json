@@ -1,7 +1,7 @@
 {
   "name": "@balena/product-os-secrets",
   "description": "productOS shared secrets",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/product-os/secrets"
@@ -19,6 +19,6 @@
     "pre-commit": "git secret hide"
   },
   "versionist": {
-    "publishedAt": "2021-08-18T06:03:13.076Z"
+    "publishedAt": "2021-08-18T06:22:29.692Z"
   }
 }

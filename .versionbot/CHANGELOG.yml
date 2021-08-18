@@ -1,4 +1,17 @@
 - commits:
+    - subject: Remove old secrets
+      hash: 7d177af28a283592ad7a94f5c6f42600a3dc7295
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.6
+  date: 2021-08-18T06:22:29.655Z
+- commits:
     - subject: Update secret filenames with underscores
       hash: 2214f0a2de41fb5b75d3fe576c4a8c7b9337c3fe
       body: ''
