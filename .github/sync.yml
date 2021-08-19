@@ -6,3 +6,4 @@ group:
       dest: .balena/secrets/
     repos: |
       product-os/jellyfish-plugin-typeform
+      product-os/jellyfish-plugin-balena-api
