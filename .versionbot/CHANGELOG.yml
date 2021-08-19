@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add balena api secrets
+      hash: a79c9f8a664b80f8585a5cba7db6395ec4e1dccf
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.7
+  date: 2021-08-19T02:03:04.656Z
+- commits:
     - subject: Remove old secrets
       hash: 7d177af28a283592ad7a94f5c6f42600a3dc7295
       body: ''

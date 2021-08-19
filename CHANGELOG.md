@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 0.0.7 - 2021-08-19
+
+* Add balena api secrets [Josh Bowling]
+
 ## 0.0.6 - 2021-08-18
 
 * Remove old secrets [Josh Bowling]
