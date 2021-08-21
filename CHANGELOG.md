@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 0.0.8 - 2021-08-21
+
+* patch: Update dependency simple-git-hooks to ^2.6.1 [Renovate Bot]
+
 ## 0.0.7 - 2021-08-19
 
 * Add balena api secrets [Josh Bowling]
