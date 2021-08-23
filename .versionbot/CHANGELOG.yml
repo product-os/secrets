@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add outreach secrets
+      hash: c0018aa31e7c5e013068e743898d2807afc901b1
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.8
+  date: 2021-08-23T06:34:39.212Z
+- commits:
     - subject: Add balena api secrets
       hash: a79c9f8a664b80f8585a5cba7db6395ec4e1dccf
       body: ''
