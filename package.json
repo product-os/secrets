@@ -12,12 +12,7 @@
   "author": "Balena.io. <hello@balena.io>",
   "license": "UNLICENSED",
   "dependencies": {},
-  "devDependencies": {
-    "simple-git-hooks": "^2.5.1"
-  },
-  "simple-git-hooks": {
-    "pre-commit": "git secret hide"
-  },
+  "devDependencies": {},
   "versionist": {
     "publishedAt": "2021-08-19T02:03:04.693Z"
   }
