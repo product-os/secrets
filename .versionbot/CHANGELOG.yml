@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add github token secret
+      hash: 6979839ddb0ac7e98bdd0c238afc704ee8f4d6ff
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.13
+  date: 2021-08-24T05:42:09.504Z
+- commits:
     - subject: Add github secrets
       hash: c87c49e4987d2def613c1af5dab5e052dad86794
       body: ''
