@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add flowdock secrets
+      hash: 6e1d46bd8355b5ac89ebdb8773dc1be94b41d3d0
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.10
+  date: 2021-08-24T02:25:45.236Z
+- commits:
     - subject: Fix outreach secret file names
       hash: 11e89da6717d09dfa46fe3f8bfe66f67a0c112d8
       body: ''

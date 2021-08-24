@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 0.0.10 - 2021-08-24
+
+* Add flowdock secrets [Josh Bowling]
+
 ## 0.0.9 - 2021-08-23
 
 * Fix outreach secret file names [Josh Bowling]
