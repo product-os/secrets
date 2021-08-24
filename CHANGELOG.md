@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 0.0.11 - 2021-08-24
+
+* Add plugin-flowdock as sync target [Josh Bowling]
+
 ## 0.0.10 - 2021-08-24
 
 * Add flowdock secrets [Josh Bowling]

@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add plugin-flowdock as sync target
+      hash: 14147ad4c2e0b2293c593853c620c1b4be5eb325
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.11
+  date: 2021-08-24T02:35:36.235Z
+- commits:
     - subject: Add flowdock secrets
       hash: 6e1d46bd8355b5ac89ebdb8773dc1be94b41d3d0
       body: ''
