@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add github secrets
+      hash: c87c49e4987d2def613c1af5dab5e052dad86794
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.12
+  date: 2021-08-24T03:50:17.206Z
+- commits:
     - subject: Add plugin-flowdock as sync target
       hash: 14147ad4c2e0b2293c593853c620c1b4be5eb325
       body: ''
