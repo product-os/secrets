@@ -1,4 +1,27 @@
 - commits:
+    - subject: Add plugin-front as sync target
+      hash: dd60131d383dafd348bd406c1d1bd7db04c8f3ca
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+    - subject: Add Front and Intercom secrets
+      hash: 81db72dc5abf12bcbf764ba35d0059158a4c2e18
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.14
+  date: 2021-08-30T02:08:29.423Z
+- commits:
     - subject: Add github token secret
       hash: 6979839ddb0ac7e98bdd0c238afc704ee8f4d6ff
       body: ''
