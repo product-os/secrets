@@ -17,3 +17,6 @@ node_modules
 .balena/secrets/integration_github_token.txt
 .balena/secrets/integration_front_token.txt
 .balena/secrets/integration_intercom_token.txt
+.balena/secrets/integration_discourse_signature_key.txt
+.balena/secrets/integration_discourse_token.txt
+.balena/secrets/integration_discourse_username.txt
