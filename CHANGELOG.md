@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 0.0.15 - 2021-08-31
+
+* Add Discourse secrets [Josh Bowling]
+
 ## 0.0.14 - 2021-08-30
 
 * Add plugin-front as sync target [Josh Bowling]

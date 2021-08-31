@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add Discourse secrets
+      hash: b46faf8bccb4d9fdf59589bc607d0e43be668d5f
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.15
+  date: 2021-08-31T06:45:49.556Z
+- commits:
     - subject: Add plugin-front as sync target
       hash: dd60131d383dafd348bd406c1d1bd7db04c8f3ca
       body: ''
