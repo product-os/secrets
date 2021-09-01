@@ -5,6 +5,11 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 0.0.16 - 2021-09-01
+
+* Add other sync targets [Josh Bowling]
+* Add jellyfish-queue as sync target [Josh Bowling]
+
 ## 0.0.15 - 2021-08-31
 
 * Add Discourse secrets [Josh Bowling]

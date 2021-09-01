@@ -1,4 +1,27 @@
 - commits:
+    - subject: Add other sync targets
+      hash: ad064285993eb9a9c6bfc4baa17364b97e0069f8
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+    - subject: Add jellyfish-queue as sync target
+      hash: 0713a09069b49fee2a75a50591da8613ce4871b6
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.16
+  date: 2021-09-01T00:13:39.090Z
+- commits:
     - subject: Add Discourse secrets
       hash: b46faf8bccb4d9fdf59589bc607d0e43be668d5f
       body: ''
