@@ -12,3 +12,8 @@ group:
       product-os/jellyfish-plugin-github
       product-os/jellyfish-plugin-front
       product-os/jellyfish-plugin-discourse
+      product-os/jellyfish-queue
+      product-os/jellyfish-worker
+      product-os/jellyfish-core
+      product-os/jellyfish-action-library
+      product-os/jellyfish-plugin-default
