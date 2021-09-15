@@ -1,4 +1,17 @@
 - commits:
+    - subject: Bump sync action to v1.13.3
+      hash: 94bd180b9844bd66ec8ca4f1058d5dcfb2eaa5bb
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.18
+  date: 2021-09-15T05:15:29.467Z
+- commits:
     - subject: Give access to carol@ereski.org
       hash: 9b9b6a11e6d325f346919a2e6bae3af95cbf06f4
       body: ''
