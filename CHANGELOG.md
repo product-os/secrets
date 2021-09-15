@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 0.0.17 - 2021-09-15
+
+* Give access to carol@ereski.org [Josh Bowling]
+
 ## 0.0.16 - 2021-09-01
 
 * Add other sync targets [Josh Bowling]

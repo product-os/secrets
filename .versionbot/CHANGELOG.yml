@@ -1,4 +1,17 @@
 - commits:
+    - subject: Give access to carol@ereski.org
+      hash: 9b9b6a11e6d325f346919a2e6bae3af95cbf06f4
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.17
+  date: 2021-09-15T01:12:19.416Z
+- commits:
     - subject: Add other sync targets
       hash: ad064285993eb9a9c6bfc4baa17364b97e0069f8
       body: ''
