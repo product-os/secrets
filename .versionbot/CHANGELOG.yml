@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add Mailgun token secret
+      hash: e713e142b0d5018b2a205657658a23a471680678
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.20
+  date: 2021-09-25T10:17:32.493Z
+- commits:
     - subject: Add Google Meet credentials secret
       hash: 142e4b887e3a4d7ee63ba0573930cd4a19a43dcc
       body: ''

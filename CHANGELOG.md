@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 0.0.20 - 2021-09-25
+
+* Add Mailgun token secret [Josh Bowling]
+
 ## 0.0.19 - 2021-09-25
 
 * Add Google Meet credentials secret [Josh Bowling]
