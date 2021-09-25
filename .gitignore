@@ -21,3 +21,4 @@ node_modules
 .balena/secrets/integration_discourse_token.txt
 .balena/secrets/integration_discourse_username.txt
 .balena/secrets/integration_google_meet_credentials.txt
+.balena/secrets/mailgun_token.txt
