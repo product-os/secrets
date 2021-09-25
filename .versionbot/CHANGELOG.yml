@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add Google Meet credentials secret
+      hash: 142e4b887e3a4d7ee63ba0573930cd4a19a43dcc
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.19
+  date: 2021-09-25T06:01:10.170Z
+- commits:
     - subject: Bump sync action to v1.13.3
       hash: 94bd180b9844bd66ec8ca4f1058d5dcfb2eaa5bb
       body: ''
