@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add product-os/jellyfish as sync target
+      hash: 2d0be2f943df8182a538b69c655148a6154583ea
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.21
+  date: 2021-10-09T06:21:06.349Z
+- commits:
     - subject: Add Mailgun token secret
       hash: e713e142b0d5018b2a205657658a23a471680678
       body: ''

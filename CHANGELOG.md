@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 0.0.21 - 2021-10-09
+
+* Add product-os/jellyfish as sync target [Josh Bowling]
+
 ## 0.0.20 - 2021-09-25
 
 * Add Mailgun token secret [Josh Bowling]
