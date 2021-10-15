@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update NPM token secret
+      hash: 3f5530b1d774bc86ce5c4ba1590db54cc72a16ba
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.22
+  date: 2021-10-15T08:47:09.083Z
+- commits:
     - subject: Add product-os/jellyfish as sync target
       hash: 2d0be2f943df8182a538b69c655148a6154583ea
       body: ''
