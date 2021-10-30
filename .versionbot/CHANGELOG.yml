@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add kaxabernet@gmail.com
+      hash: 3551c4b520a3c6b15d8cd89d6863f70b339cc241
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.23
+  date: 2021-10-30T03:43:57.281Z
+- commits:
     - subject: Update NPM token secret
       hash: 3f5530b1d774bc86ce5c4ba1590db54cc72a16ba
       body: ''
