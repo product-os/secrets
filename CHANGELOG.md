@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 0.0.24 - 2021-11-05
+
+* Set sync action version to v1 [Josh Bowling]
+
 ## 0.0.23 - 2021-10-30
 
 * Add kaxabernet@gmail.com [Josh Bowling]

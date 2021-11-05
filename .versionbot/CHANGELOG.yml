@@ -1,4 +1,20 @@
 - commits:
+    - subject: Set sync action version to v1
+      hash: 8656a2e6a0e246fdcaea5d35cbad92531184f2ab
+      body: |
+        Set version to v1 to always use the latest version of v1.
+        This is the recommended usage and means we don't need to
+        worry about minor and patch bumps.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 0.0.24
+  date: 2021-11-05T09:39:07.477Z
+- commits:
     - subject: Add kaxabernet@gmail.com
       hash: 3551c4b520a3c6b15d8cd89d6863f70b339cc241
       body: ''
