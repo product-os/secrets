@@ -1,8 +1,6 @@
 node_modules
 .gitsecret/keys/random_seed
 !*.secret
-.balena/secrets/npmrc.txt
-.balena/secrets/npm_token.txt
 .balena/secrets/integration_typeform_signature_key.txt
 .balena/secrets/integration_balena_api_private_key.txt
 .balena/secrets/integration_balena_api_public_key_production.txt
