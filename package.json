@@ -1,7 +1,7 @@
 {
   "name": "@balena/product-os-secrets",
   "description": "productOS shared secrets",
-  "version": "0.0.24",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/product-os/secrets"
@@ -14,6 +14,6 @@
   "dependencies": {},
   "devDependencies": {},
   "versionist": {
-    "publishedAt": "2021-11-05T09:39:07.535Z"
+    "publishedAt": "2021-11-12T01:06:21.255Z"
   }
 }

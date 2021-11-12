@@ -1,4 +1,17 @@
 - commits:
+    - subject: Remove npm token
+      hash: 6f254edfca048300a85355f22b5ae130caa58fbf
+      body: ''
+      footer:
+        Change-type: major
+        change-type: major
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.0.0
+  date: 2021-11-12T01:06:21.194Z
+- commits:
     - subject: Set sync action version to v1
       hash: 8656a2e6a0e246fdcaea5d35cbad92531184f2ab
       body: |
