@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add registry token secrets
+      hash: 1eb0fd139471ef4619790f086df66873c1cc6d39
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.3.0
+  date: 2021-11-12T02:07:28.158Z
+- commits:
     - subject: Add balena staging key
       hash: 5b2034112a3d4c200efb6824ae6516664d3e19c6
       body: ''
