@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add password reset token
+      hash: 621fe981f009717bdfac685baee926cc80c8fbab
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.1.0
+  date: 2021-11-12T01:32:33.515Z
+- commits:
     - subject: Remove npm token
       hash: 6f254edfca048300a85355f22b5ae130caa58fbf
       body: ''
