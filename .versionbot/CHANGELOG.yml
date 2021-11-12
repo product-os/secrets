@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add balena app id and secret
+      hash: e01ecf62912ff24fe02e4dbe1ba5ee89d66b27e5
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.5.0
+  date: 2021-11-12T02:46:18.494Z
+- commits:
     - subject: Add AWS secrets
       hash: 20333fb55bd62c75fc766f815e7d09355ed4bfba
       body: ''
