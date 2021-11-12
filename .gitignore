@@ -27,3 +27,5 @@ node_modules
 .balena/secrets/aws_access_key_id.txt
 .balena/secrets/aws_s3_bucket_name.txt
 .balena/secrets/aws_secret_access_key.txt
+.balena/secrets/integration_balena_api_app_id.txt
+.balena/secrets/integration_balena_api_app_secret.txt
