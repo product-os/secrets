@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add balena staging key
+      hash: 5b2034112a3d4c200efb6824ae6516664d3e19c6
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.2.0
+  date: 2021-11-12T01:45:40.694Z
+- commits:
     - subject: Add password reset token
       hash: 621fe981f009717bdfac685baee926cc80c8fbab
       body: ''

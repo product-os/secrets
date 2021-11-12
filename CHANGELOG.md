@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 1.2.0 - 2021-11-12
+
+* Add balena staging key [Josh Bowling]
+
 ## 1.1.0 - 2021-11-12
 
 * Add password reset token [Josh Bowling]
