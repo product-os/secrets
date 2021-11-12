@@ -21,3 +21,4 @@ node_modules
 .balena/secrets/integration_google_meet_credentials.txt
 .balena/secrets/mailgun_token.txt
 .balena/secrets/reset_password_secret_token.txt
+.balena/secrets/integration_balena_api_public_key_staging.txt
