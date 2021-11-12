@@ -24,3 +24,6 @@ node_modules
 .balena/secrets/integration_balena_api_public_key_staging.txt
 .balena/secrets/registry_token_auth_cert_key.txt
 .balena/secrets/registry_token_auth_cert_kid.txt
+.balena/secrets/aws_access_key_id.txt
+.balena/secrets/aws_s3_bucket_name.txt
+.balena/secrets/aws_secret_access_key.txt
