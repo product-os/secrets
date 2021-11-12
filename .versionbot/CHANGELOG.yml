@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add AWS secrets
+      hash: 20333fb55bd62c75fc766f815e7d09355ed4bfba
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.4.0
+  date: 2021-11-12T02:26:39.759Z
+- commits:
     - subject: Add registry token secrets
       hash: 1eb0fd139471ef4619790f086df66873c1cc6d39
       body: ''

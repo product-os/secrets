@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 1.4.0 - 2021-11-12
+
+* Add AWS secrets [Josh Bowling]
+
 ## 1.3.0 - 2021-11-12
 
 * Add registry token secrets [Josh Bowling]
