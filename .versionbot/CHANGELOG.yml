@@ -1,4 +1,17 @@
 - commits:
+    - subject: Remove txt extension
+      hash: 05b6aa38cc3f2a029ac22d72c472080ea2fd9313
+      body: ''
+      footer:
+        Change-type: major
+        change-type: major
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 2.0.0
+  date: 2021-11-16T13:14:24.042Z
+- commits:
     - subject: Add balena app id and secret
       hash: e01ecf62912ff24fe02e4dbe1ba5ee89d66b27e5
       body: ''

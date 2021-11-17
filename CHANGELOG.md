@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 2.0.0 - 2021-11-16
+
+* Remove txt extension [Josh Bowling]
+
 ## 1.5.0 - 2021-11-12
 
 * Add balena app id and secret [Josh Bowling]
