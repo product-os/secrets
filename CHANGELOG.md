@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 2.0.1 - 2021-11-26
+
+* Remove Renovate config [Josh Bowling]
+
 ## 2.0.0 - 2021-11-16
 
 * Remove txt extension [Josh Bowling]

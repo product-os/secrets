@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove Renovate config
+      hash: 2b61b96f0f89223f04930449c582677ce3d872b2
+      body: |
+        Nothing to bump in this repo.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 2.0.1
+  date: 2021-11-26T05:41:20.132Z
+- commits:
     - subject: Remove txt extension
       hash: 05b6aa38cc3f2a029ac22d72c472080ea2fd9313
       body: ''
