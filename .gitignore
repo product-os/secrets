@@ -4,11 +4,8 @@ node_modules
 .balena/secrets/aws_access_key_id
 .balena/secrets/aws_s3_bucket_name
 .balena/secrets/aws_secret_access_key
-.balena/secrets/integration_balena_api_app_id
-.balena/secrets/integration_balena_api_app_secret
 .balena/secrets/integration_balena_api_private_key
 .balena/secrets/integration_balena_api_public_key_production
-.balena/secrets/integration_balena_api_public_key_staging
 .balena/secrets/integration_discourse_signature_key
 .balena/secrets/integration_discourse_token
 .balena/secrets/integration_discourse_username
@@ -21,8 +18,6 @@ node_modules
 .balena/secrets/integration_github_token
 .balena/secrets/integration_google_meet_credentials
 .balena/secrets/integration_intercom_token
-.balena/secrets/integration_outreach_app_id
-.balena/secrets/integration_outreach_app_secret
 .balena/secrets/integration_outreach_signature_key
 .balena/secrets/integration_typeform_signature_key
 .balena/secrets/mailgun_token
