@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add key for edufschmidt
+      hash: 424a507b7513581808b1b00e6aecccd2c048650e
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 2.0.2
+  date: 2021-12-01T00:24:00.320Z
+- commits:
     - subject: Remove Renovate config
       hash: 2b61b96f0f89223f04930449c582677ce3d872b2
       body: |
