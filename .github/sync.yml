@@ -16,5 +16,4 @@ group:
       product-os/jellyfish-worker
       product-os/jellyfish-core
       product-os/jellyfish-action-library
-      product-os/jellyfish-plugin-default
       product-os/jellyfish
