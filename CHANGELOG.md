@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.1 - 2021-12-02
+
+* Remove plugin-default from sync targets [Josh Bowling]
+
 ## 3.0.0 - 2021-12-01
 
 * Remove a few non-secrets [Josh Bowling]

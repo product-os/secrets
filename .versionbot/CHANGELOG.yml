@@ -1,4 +1,17 @@
 - commits:
+    - subject: Remove plugin-default from sync targets
+      hash: 86223198b79a629ec381b31ad81b899c5786df54
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.1
+  date: 2021-12-02T01:04:34.418Z
+- commits:
     - subject: Remove a few non-secrets
       hash: e7ce9f764776f7e64fcf3805ad03e4176d69e5a8
       body: ''
