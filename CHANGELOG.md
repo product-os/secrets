@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.0 - 2021-12-01
+
+* Remove a few non-secrets [Josh Bowling]
+
 ## 2.0.2 - 2021-12-01
 
 * Add key for edufschmidt [Josh Bowling]

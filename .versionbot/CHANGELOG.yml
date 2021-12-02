@@ -1,4 +1,17 @@
 - commits:
+    - subject: Remove a few non-secrets
+      hash: e7ce9f764776f7e64fcf3805ad03e4176d69e5a8
+      body: ''
+      footer:
+        Change-type: major
+        change-type: major
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.0
+  date: 2021-12-01T03:42:43.941Z
+- commits:
     - subject: Add key for edufschmidt
       hash: 424a507b7513581808b1b00e6aecccd2c048650e
       body: ''
