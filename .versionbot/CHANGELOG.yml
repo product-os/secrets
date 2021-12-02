@@ -1,4 +1,17 @@
 - commits:
+    - subject: Remove jellyfish-worker from sync targets
+      hash: f89c7562437f447a332980393a2a62ef8735f806
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.3
+  date: 2021-12-02T03:23:56.474Z
+- commits:
     - subject: Remove jellyfish-queue from sync targets
       hash: 82dfce0030e544a507601893d9c394ef46b74a14
       body: ''
