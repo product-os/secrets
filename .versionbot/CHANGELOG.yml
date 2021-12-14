@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update reset password token and Antons key
+      hash: df2ad4536c9e004474f519720847be4720a8e942
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.5
+  date: 2021-12-14T07:09:54.396Z
+- commits:
     - subject: Remove jellyfish-core from sync targets
       hash: d20b74fc9ffb66aa2c947bf1980d5cb5cf374331
       body: ''

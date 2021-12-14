@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.5 - 2021-12-14
+
+* Update reset password token and Antons key [Josh Bowling]
+
 ## 3.0.4 - 2021-12-02
 
 * Remove jellyfish-core from sync targets [Josh Bowling]
