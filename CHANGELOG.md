@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.6 - 2022-01-12
+
+* Update stathis key [Josh Bowling]
+
 ## 3.0.5 - 2021-12-14
 
 * Update reset password token and Antons key [Josh Bowling]

@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update stathis key
+      hash: baaaacb05f11a6581a0719df0907fc9a866e9b6d
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.6
+  date: 2022-01-12T01:15:28.061Z
+- commits:
     - subject: Update reset password token and Antons key
       hash: df2ad4536c9e004474f519720847be4720a8e942
       body: ''
