@@ -1,4 +1,19 @@
 - commits:
+    - subject: Add plugin-default as sync target
+      hash: cb9bd27e2dbe6f8e1033baa1b0ccabdf03f8fac5
+      body: |
+        Also drop action-library as we are
+        merging it into plugin-default
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.7
+  date: 2022-01-27T04:05:34.506Z
+- commits:
     - subject: Update stathis key
       hash: baaaacb05f11a6581a0719df0907fc9a866e9b6d
       body: ''
