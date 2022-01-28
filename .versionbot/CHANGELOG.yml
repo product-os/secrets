@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update GitHub token to new format
+      hash: bf01ddf3b875d088d74236887cd5c657daa24d61
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.8
+  title: Update GitHub token to new format
+  date: 2022-01-28T02:07:20.899Z
+- commits:
     - subject: Add plugin-default as sync target
       hash: cb9bd27e2dbe6f8e1033baa1b0ccabdf03f8fac5
       body: |
@@ -16,7 +30,7 @@
 - commits:
     - subject: Update stathis key
       hash: baaaacb05f11a6581a0719df0907fc9a866e9b6d
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -29,7 +43,7 @@
 - commits:
     - subject: Update reset password token and Antons key
       hash: df2ad4536c9e004474f519720847be4720a8e942
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -42,7 +56,7 @@
 - commits:
     - subject: Remove jellyfish-core from sync targets
       hash: d20b74fc9ffb66aa2c947bf1980d5cb5cf374331
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -55,7 +69,7 @@
 - commits:
     - subject: Remove jellyfish-worker from sync targets
       hash: f89c7562437f447a332980393a2a62ef8735f806
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -68,7 +82,7 @@
 - commits:
     - subject: Remove jellyfish-queue from sync targets
       hash: 82dfce0030e544a507601893d9c394ef46b74a14
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -81,7 +95,7 @@
 - commits:
     - subject: Remove plugin-default from sync targets
       hash: 86223198b79a629ec381b31ad81b899c5786df54
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -94,7 +108,7 @@
 - commits:
     - subject: Remove a few non-secrets
       hash: e7ce9f764776f7e64fcf3805ad03e4176d69e5a8
-      body: ''
+      body: ""
       footer:
         Change-type: major
         change-type: major
@@ -107,7 +121,7 @@
 - commits:
     - subject: Add key for edufschmidt
       hash: 424a507b7513581808b1b00e6aecccd2c048650e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -134,7 +148,7 @@
 - commits:
     - subject: Remove txt extension
       hash: 05b6aa38cc3f2a029ac22d72c472080ea2fd9313
-      body: ''
+      body: ""
       footer:
         Change-type: major
         change-type: major
@@ -147,7 +161,7 @@
 - commits:
     - subject: Add balena app id and secret
       hash: e01ecf62912ff24fe02e4dbe1ba5ee89d66b27e5
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -160,7 +174,7 @@
 - commits:
     - subject: Add AWS secrets
       hash: 20333fb55bd62c75fc766f815e7d09355ed4bfba
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -173,7 +187,7 @@
 - commits:
     - subject: Add registry token secrets
       hash: 1eb0fd139471ef4619790f086df66873c1cc6d39
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -186,7 +200,7 @@
 - commits:
     - subject: Add balena staging key
       hash: 5b2034112a3d4c200efb6824ae6516664d3e19c6
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -199,7 +213,7 @@
 - commits:
     - subject: Add password reset token
       hash: 621fe981f009717bdfac685baee926cc80c8fbab
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -212,7 +226,7 @@
 - commits:
     - subject: Remove npm token
       hash: 6f254edfca048300a85355f22b5ae130caa58fbf
-      body: ''
+      body: ""
       footer:
         Change-type: major
         change-type: major
@@ -241,7 +255,7 @@
 - commits:
     - subject: Add kaxabernet@gmail.com
       hash: 3551c4b520a3c6b15d8cd89d6863f70b339cc241
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -254,7 +268,7 @@
 - commits:
     - subject: Update NPM token secret
       hash: 3f5530b1d774bc86ce5c4ba1590db54cc72a16ba
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -267,7 +281,7 @@
 - commits:
     - subject: Add product-os/jellyfish as sync target
       hash: 2d0be2f943df8182a538b69c655148a6154583ea
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -280,7 +294,7 @@
 - commits:
     - subject: Add Mailgun token secret
       hash: e713e142b0d5018b2a205657658a23a471680678
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -293,7 +307,7 @@
 - commits:
     - subject: Add Google Meet credentials secret
       hash: 142e4b887e3a4d7ee63ba0573930cd4a19a43dcc
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -306,7 +320,7 @@
 - commits:
     - subject: Bump sync action to v1.13.3
       hash: 94bd180b9844bd66ec8ca4f1058d5dcfb2eaa5bb
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -319,7 +333,7 @@
 - commits:
     - subject: Give access to carol@ereski.org
       hash: 9b9b6a11e6d325f346919a2e6bae3af95cbf06f4
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -332,7 +346,7 @@
 - commits:
     - subject: Add other sync targets
       hash: ad064285993eb9a9c6bfc4baa17364b97e0069f8
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -342,7 +356,7 @@
       nested: []
     - subject: Add jellyfish-queue as sync target
       hash: 0713a09069b49fee2a75a50591da8613ce4871b6
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -355,7 +369,7 @@
 - commits:
     - subject: Add Discourse secrets
       hash: b46faf8bccb4d9fdf59589bc607d0e43be668d5f
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -368,7 +382,7 @@
 - commits:
     - subject: Add plugin-front as sync target
       hash: dd60131d383dafd348bd406c1d1bd7db04c8f3ca
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -378,7 +392,7 @@
       nested: []
     - subject: Add Front and Intercom secrets
       hash: 81db72dc5abf12bcbf764ba35d0059158a4c2e18
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -391,7 +405,7 @@
 - commits:
     - subject: Add github token secret
       hash: 6979839ddb0ac7e98bdd0c238afc704ee8f4d6ff
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -404,7 +418,7 @@
 - commits:
     - subject: Add github secrets
       hash: c87c49e4987d2def613c1af5dab5e052dad86794
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -417,7 +431,7 @@
 - commits:
     - subject: Add plugin-flowdock as sync target
       hash: 14147ad4c2e0b2293c593853c620c1b4be5eb325
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -430,7 +444,7 @@
 - commits:
     - subject: Add flowdock secrets
       hash: 6e1d46bd8355b5ac89ebdb8773dc1be94b41d3d0
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -443,7 +457,7 @@
 - commits:
     - subject: Fix outreach secret file names
       hash: 11e89da6717d09dfa46fe3f8bfe66f67a0c112d8
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -456,7 +470,7 @@
 - commits:
     - subject: Add outreach secrets
       hash: c0018aa31e7c5e013068e743898d2807afc901b1
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -469,7 +483,7 @@
 - commits:
     - subject: Add balena api secrets
       hash: a79c9f8a664b80f8585a5cba7db6395ec4e1dccf
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -482,7 +496,7 @@
 - commits:
     - subject: Remove old secrets
       hash: 7d177af28a283592ad7a94f5c6f42600a3dc7295
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -495,7 +509,7 @@
 - commits:
     - subject: Update secret filenames with underscores
       hash: 2214f0a2de41fb5b75d3fe576c4a8c7b9337c3fe
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -508,7 +522,7 @@
 - commits:
     - subject: Add typeform secrets
       hash: 66a7513ea99ffc49b57969538516e12e970cdf83
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -521,7 +535,7 @@
 - commits:
     - subject: Move secrets path to match consumers
       hash: 50367d283e1c6cfc62c79faa5d2d9a7e721af9cb
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -534,7 +548,7 @@
 - commits:
     - subject: Add base repo files
       hash: 4223bb6ad0fef93ad3f3a7f63229ed5df989b5e1
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -544,7 +558,7 @@
       nested: []
     - subject: Update workflow trigger
       hash: b5d650fcb5865a8b77fea90942db24ec802d7b3c
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -554,7 +568,7 @@
       nested: []
     - subject: Add file sync GitHub workflow
       hash: d769c0080bdabbfb7339073b479dd15e4f61bec1
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -562,9 +576,9 @@
         signed-off-by: Josh Bowling <josh@balena.io>
       author: Josh Bowling
       nested: []
-    - subject: 'Add NPM_TOKEN secret, grant access'
+    - subject: Add NPM_TOKEN secret, grant access
       hash: 7e17914cbe1aefd17b2e93143b9491e4cb60cb73
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
