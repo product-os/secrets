@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove Martin and Dan
+      hash: c4349dc1bc7f2d22b524ecdba9ddc9a29fddaede
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.10
+  title: "'Remove Martin and Dan'"
+  date: 2022-02-17T03:53:22.164Z
+- commits:
     - subject: Give access to codewithcheese
       hash: 374647a01fa9a2b610297d46cefc6a38a0f7708b
       body: ""
