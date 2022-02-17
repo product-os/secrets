@@ -1,4 +1,18 @@
 - commits:
+    - subject: Give access to codewithcheese
+      hash: 374647a01fa9a2b610297d46cefc6a38a0f7708b
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.9
+  title: "'Give access to codewithcheese'"
+  date: 2022-02-17T03:40:38.392Z
+- commits:
     - subject: Update GitHub token to new format
       hash: bf01ddf3b875d088d74236887cd5c657daa24d61
       body: ""

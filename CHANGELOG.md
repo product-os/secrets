@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.9 - 2022-02-17
+
+* Give access to codewithcheese [Josh Bowling]
+
 ## 3.0.8 - 2022-01-28
 
 * Update GitHub token to new format [Josh Bowling]
