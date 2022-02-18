@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.11 - 2022-02-18
+
+* Update pubring [Josh Bowling]
+
 ## 3.0.10 - 2022-02-17
 
 * Remove Martin and Dan [Josh Bowling]
