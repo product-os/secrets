@@ -1,4 +1,18 @@
 - commits:
+    - subject: Grant access to ramirogm
+      hash: c1c10137c671ee38632653a889d7054f31a31461
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.12
+  title: "'Grant access to ramirogm'"
+  date: 2022-02-27T01:53:44.199Z
+- commits:
     - subject: Update pubring
       hash: 493c05b3be9f15c371f57b5529222a42c164810c
       body: ""
