@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove eduardo
+      hash: cf23387c4bb0ae3022a76122512ecbcf42ea2f19
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.13
+  title: "'Remove eduardo'"
+  date: 2022-02-27T02:13:39.376Z
+- commits:
     - subject: Grant access to ramirogm
       hash: c1c10137c671ee38632653a889d7054f31a31461
       body: ""
