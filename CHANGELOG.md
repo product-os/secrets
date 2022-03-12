@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.14 - 2022-03-12
+
+* Add key for inwenc [Josh Bowling]
+
 ## 3.0.13 - 2022-02-27
 
 * Remove eduardo [Josh Bowling]

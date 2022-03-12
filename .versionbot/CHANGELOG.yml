@@ -1,4 +1,18 @@
 - commits:
+    - subject: Add key for inwenc
+      hash: a3fcf147de204212aa628294fdac0cf7b5a7f9fc
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.14
+  title: "'Add key for inwenc'"
+  date: 2022-03-12T08:06:07.597Z
+- commits:
     - subject: Remove eduardo
       hash: cf23387c4bb0ae3022a76122512ecbcf42ea2f19
       body: ""
