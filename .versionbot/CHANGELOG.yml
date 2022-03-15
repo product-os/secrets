@@ -1,4 +1,19 @@
 - commits:
+    - subject: Add more docs
+      hash: 62ebb512198f0c1e21587754f36e6bd0ddc4049a
+      body: |
+        Add docs about adding/removing secrets
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.16
+  title: "'Add more docs'"
+  date: 2022-03-15T00:25:55.392Z
+- commits:
     - subject: Add docs to readme
       hash: 0263967ba9868d736119b3289ac16893c8eaef12
       body: ""

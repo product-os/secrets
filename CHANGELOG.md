@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.16 - 2022-03-15
+
+* Add more docs [Josh Bowling]
+
 ## 3.0.15 - 2022-03-12
 
 * Add docs to readme [Josh Bowling]
