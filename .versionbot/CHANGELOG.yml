@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update GitHub private key
+      hash: fbbf83f2e1b9f43988bde38cd22e2e421e87f758
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.18
+  title: "'Update GitHub private key'"
+  date: 2022-04-11T08:19:06.446Z
+- commits:
     - subject: Update GitHub token
       hash: d65a23abcb694757973c6a62e3cfd100ad7f72e6
       body: ""
