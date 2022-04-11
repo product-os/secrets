@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update GitHub token
+      hash: d65a23abcb694757973c6a62e3cfd100ad7f72e6
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.17
+  title: "'Update GitHub token'"
+  date: 2022-04-11T05:45:07.605Z
+- commits:
     - subject: Add more docs
       hash: 62ebb512198f0c1e21587754f36e6bd0ddc4049a
       body: |
