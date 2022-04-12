@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update Discourse signature key
+      hash: 72343ef8b0b8c060e79648adfeaec9a7007f5f7d
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.20
+  title: "'Update Discourse signature key'"
+  date: 2022-04-12T03:24:01.484Z
+- commits:
     - subject: Update Discourse token
       hash: 8eb55720a8fdb3f0f57804a06327115e84f1d846
       body: ""
