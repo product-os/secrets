@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update Discourse token
+      hash: 8eb55720a8fdb3f0f57804a06327115e84f1d846
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.19
+  title: "'Update Discourse token'"
+  date: 2022-04-12T02:41:16.497Z
+- commits:
     - subject: Update GitHub private key
       hash: fbbf83f2e1b9f43988bde38cd22e2e421e87f758
       body: ""

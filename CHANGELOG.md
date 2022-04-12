@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.19 - 2022-04-12
+
+* Update Discourse token [Josh Bowling]
+
 ## 3.0.18 - 2022-04-11
 
 * Update GitHub private key [Josh Bowling]
