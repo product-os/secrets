@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.23 - 2022-04-12
+
+* Update AWS secrets [Josh Bowling]
+
 ## 3.0.22 - 2022-04-12
 
 * Remove Flowdock secrets [Josh Bowling]

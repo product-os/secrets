@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update AWS secrets
+      hash: bf4899c95e8d070d946b09671111469e7d59837a
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.23
+  title: "'Update AWS secrets'"
+  date: 2022-04-12T05:49:24.562Z
+- commits:
     - subject: Remove Flowdock secrets
       hash: 65b73ad163b28cd9b3ff57ea278de2c5d4dc9341
       body: |
