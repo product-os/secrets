@@ -21,4 +21,3 @@ node_modules
 .balena/secrets/mailgun_token
 .balena/secrets/registry_token_auth_cert_kid
 .balena/secrets/registry_token_auth_cert_key
-.balena/secrets/reset_password_secret_token
