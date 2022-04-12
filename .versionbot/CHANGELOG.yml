@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove reset password token
+      hash: ff08c4f1563383670e283571e97f40db0073174e
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.24
+  title: "'Remove reset password token'"
+  date: 2022-04-12T07:31:17.328Z
+- commits:
     - subject: Update AWS secrets
       hash: bf4899c95e8d070d946b09671111469e7d59837a
       body: ""
