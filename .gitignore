@@ -9,8 +9,6 @@ node_modules
 .balena/secrets/integration_discourse_signature_key
 .balena/secrets/integration_discourse_token
 .balena/secrets/integration_discourse_username
-.balena/secrets/integration_flowdock_signature_key
-.balena/secrets/integration_flowdock_token
 .balena/secrets/integration_front_token
 .balena/secrets/integration_github_app_id
 .balena/secrets/integration_github_private_key
