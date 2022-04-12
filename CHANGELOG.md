@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.25 - 2022-04-12
+
+* Remove mailgun token [Josh Bowling]
+
 ## 3.0.24 - 2022-04-12
 
 * Remove reset password token [Josh Bowling]

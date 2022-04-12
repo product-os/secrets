@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove mailgun token
+      hash: f9ef63add03e1fe6d6cd6e31d1a7c218e338e460
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.25
+  title: "'Remove mailgun token'"
+  date: 2022-04-12T09:36:17.966Z
+- commits:
     - subject: Remove reset password token
       hash: ff08c4f1563383670e283571e97f40db0073174e
       body: ""
