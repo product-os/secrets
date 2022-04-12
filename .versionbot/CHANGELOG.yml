@@ -1,4 +1,20 @@
 - commits:
+    - subject: Remove Flowdock secrets
+      hash: 65b73ad163b28cd9b3ff57ea278de2c5d4dc9341
+      body: |
+        Dummy values work for Flowdock tests.
+        Adding these dummy values to jellyfish-environment.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.22
+  title: "'Remove Flowdock secrets'"
+  date: 2022-04-12T04:47:14.995Z
+- commits:
     - subject: Update Flowdock signature key
       hash: 450efaa523b6cd63f0420a11de5b51b6cd11c294
       body: ""
