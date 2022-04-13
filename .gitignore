@@ -14,7 +14,6 @@ node_modules
 .balena/secrets/integration_github_private_key
 .balena/secrets/integration_github_signature_key
 .balena/secrets/integration_github_token
-.balena/secrets/integration_google_meet_credentials
 .balena/secrets/integration_intercom_token
 .balena/secrets/integration_outreach_signature_key
 .balena/secrets/integration_typeform_signature_key
