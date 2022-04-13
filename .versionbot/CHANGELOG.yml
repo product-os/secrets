@@ -1,4 +1,20 @@
 - commits:
+    - subject: Prune sync targets
+      hash: 9fa9d5c4895e5a65b75a086afa52c0557f46246a
+      body: |
+        Remove a few sync targets as
+        they no longer need secrets.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.32
+  title: "'Prune sync targets'"
+  date: 2022-04-13T14:09:48.328Z
+- commits:
     - subject: Update Front token
       hash: 7aaebb7aaaa7d826a74aca750b1977695e329e6e
       body: ""
