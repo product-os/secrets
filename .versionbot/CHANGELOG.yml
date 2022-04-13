@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove Google Meet secret
+      hash: f57973f1f12c83db779df63541038d48d46e31f2
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.26
+  title: "'Remove Google Meet secret'"
+  date: 2022-04-13T01:52:44.502Z
+- commits:
     - subject: Remove mailgun token
       hash: f9ef63add03e1fe6d6cd6e31d1a7c218e338e460
       body: ""
