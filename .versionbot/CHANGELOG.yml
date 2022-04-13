@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove Typeform secret
+      hash: 813f0787c84dd59bfc1e4f27868eaa322f456ac3
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.27
+  title: "'Remove Typeform secret'"
+  date: 2022-04-13T02:26:07.280Z
+- commits:
     - subject: Remove Google Meet secret
       hash: f57973f1f12c83db779df63541038d48d46e31f2
       body: ""

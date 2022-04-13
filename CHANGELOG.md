@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.27 - 2022-04-13
+
+* Remove Typeform secret [Josh Bowling]
+
 ## 3.0.26 - 2022-04-13
 
 * Remove Google Meet secret [Josh Bowling]
