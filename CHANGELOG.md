@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.31 - 2022-04-13
+
+* Update Front token [Josh Bowling]
+
 ## 3.0.30 - 2022-04-13
 
 * Update Intercom secret [Josh Bowling]
