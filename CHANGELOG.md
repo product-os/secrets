@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.29 - 2022-04-13
+
+* Drop Discourse signature key [Josh Bowling]
+
 ## 3.0.28 - 2022-04-13
 
 * Drop Outreach signature key [Josh Bowling]

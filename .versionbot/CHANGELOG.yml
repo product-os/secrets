@@ -1,4 +1,18 @@
 - commits:
+    - subject: Drop Discourse signature key
+      hash: 9ed6d9c895b82e3bf1ab24e0f07da956b0b58e77
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.29
+  title: "'Drop Discourse signature key'"
+  date: 2022-04-13T04:07:12.073Z
+- commits:
     - subject: Drop Outreach signature key
       hash: e3dcb0da2e3500a754a0dbdf398f9d833086479a
       body: ""
