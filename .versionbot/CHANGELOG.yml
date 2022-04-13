@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update Intercom secret
+      hash: 9910b2b24c9ef16596100d5029b1a64548325934
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.30
+  title: "'Update Intercom secret'"
+  date: 2022-04-13T08:30:53.104Z
+- commits:
     - subject: Drop Discourse signature key
       hash: 9ed6d9c895b82e3bf1ab24e0f07da956b0b58e77
       body: ""
