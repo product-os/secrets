@@ -1,4 +1,18 @@
 - commits:
+    - subject: Simplify gitignore
+      hash: 58634d9d5502c94d201116291bc77562f1b1c3ef
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.35
+  title: "'Simplify gitignore'"
+  date: 2022-04-14T04:59:14.908Z
+- commits:
     - subject: Remove more non-secrets
       hash: 2c0ce28e3032e1b236ac07be408ef6089832fcaa
       body: |

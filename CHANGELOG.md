@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.35 - 2022-04-14
+
+* Simplify gitignore [Josh Bowling]
+
 ## 3.0.34 - 2022-04-14
 
 * Remove more non-secrets [Josh Bowling]
