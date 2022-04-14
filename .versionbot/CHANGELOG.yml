@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove file sync action
+      hash: c609fe12f621d7227f3244de81cb5ca6adc96e4c
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.37
+  title: "'Remove file sync action'"
+  date: 2022-04-14T06:11:36.128Z
+- commits:
     - subject: Remove plugin-balena-api from targets
       hash: 3ee6298b3ac497aef544ebf0c97b57a31c8730f1
       body: ""

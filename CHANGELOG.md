@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.37 - 2022-04-14
+
+* Remove file sync action [Josh Bowling]
+
 ## 3.0.36 - 2022-04-14
 
 * Remove plugin-balena-api from targets [Josh Bowling]
