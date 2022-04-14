@@ -1,4 +1,21 @@
 - commits:
+    - subject: Remove more non-secrets
+      hash: 2c0ce28e3032e1b236ac07be408ef6089832fcaa
+      body: |
+        These are not actually secrets, but
+        locally generated keys etc used for
+        development/testing.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.34
+  title: "'Remove more non-secrets'"
+  date: 2022-04-14T04:44:37.611Z
+- commits:
     - subject: Remove GitHub signature key
       hash: 76b3abcc2b8f3acf96d0eec57aa43213bb246869
       body: ""
