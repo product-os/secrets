@@ -5,6 +5,10 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+## 3.0.33 - 2022-04-14
+
+* Remove GitHub signature key [Josh Bowling]
+
 ## 3.0.32 - 2022-04-13
 
 * Prune sync targets [Josh Bowling]

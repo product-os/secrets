@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove GitHub signature key
+      hash: 76b3abcc2b8f3acf96d0eec57aa43213bb246869
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.33
+  title: "'Remove GitHub signature key'"
+  date: 2022-04-14T02:52:07.717Z
+- commits:
     - subject: Prune sync targets
       hash: 9fa9d5c4895e5a65b75a086afa52c0557f46246a
       body: |
