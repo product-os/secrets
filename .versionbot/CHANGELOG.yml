@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update readme
+      hash: bef0e8dad5c3f42151786c875c0b596ef65a66bb
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.38
+  title: "'Update readme'"
+  date: 2022-04-15T00:12:31.111Z
+- commits:
     - subject: Remove file sync action
       hash: c609fe12f621d7227f3244de81cb5ca6adc96e4c
       body: ""
