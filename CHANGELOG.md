@@ -5,6 +5,11 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+# v3.0.39
+## (2022-04-15)
+
+* Switch to generic repo type [Josh Bowling]
+
 ## 3.0.38 - 2022-04-15
 
 * Update readme [Josh Bowling]

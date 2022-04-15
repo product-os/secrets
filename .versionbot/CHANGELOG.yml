@@ -1,4 +1,18 @@
 - commits:
+    - subject: Switch to generic repo type
+      hash: df778aa21a060f2becc21ddaf7d229ca330567e6
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.39
+  title: "'Switch to generic repo type'"
+  date: 2022-04-15T00:41:43.701Z
+- commits:
     - subject: Update readme
       hash: bef0e8dad5c3f42151786c875c0b596ef65a66bb
       body: ""
