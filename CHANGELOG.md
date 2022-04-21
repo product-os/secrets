@@ -5,6 +5,11 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+# v3.0.41
+## (2022-04-21)
+
+* Update GitHub test secrets [Josh Bowling]
+
 # v3.0.40
 ## (2022-04-15)
 
