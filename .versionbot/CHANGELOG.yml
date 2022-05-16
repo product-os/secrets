@@ -1,4 +1,16 @@
 - commits:
+    - subject: Remove personal key
+      hash: da1e079e86efa2979d4f555baf99d32cc6518d31
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: ab77
+      nested: []
+  version: 3.0.42
+  title: "'Replace key and re-encrypt'"
+  date: 2022-05-16T15:58:14.455Z
+- commits:
     - subject: Update GitHub test secrets
       hash: d0c7dd7c532876b2530ed100293247057acfba45
       body: ""
