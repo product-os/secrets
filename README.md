@@ -24,16 +24,12 @@ Example of revoking access:
 cd git/product-os/secrets
 git checkout remove-foobar
 git secret reveal -f
-git secret killperson foo@bar.com
+git secret removeperson foo@bar.com
 git secret hide
 git add --all
 git commit -m "Revoke foobar access"
 git push --force-with-lease origin
 ```
-
-Note that the official `git secret` docs use `git secret removeperson` instead
-of `git secret killperson` so you may need to check which command is available with
-your installation.
 
 ## Adding a secret
 Example of adding a new secret:
