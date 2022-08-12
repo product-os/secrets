@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove Stathis
+      hash: 8957b36089ad60e6d603db93016acdb170204c1d
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.43
+  title: "'Remove Stathis'"
+  date: 2022-08-12T08:23:03.071Z
+- commits:
     - subject: Remove personal key
       hash: da1e079e86efa2979d4f555baf99d32cc6518d31
       body: ""

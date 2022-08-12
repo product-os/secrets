@@ -5,6 +5,11 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+# v3.0.43
+## (2022-08-12)
+
+* Remove Stathis [Josh Bowling]
+
 # v3.0.42
 ## (2022-05-16)
 
