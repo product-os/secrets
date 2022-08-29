@@ -1,4 +1,18 @@
 - commits:
+    - subject: Improve "add key" section on the README file
+      hash: 57e0ed3f40ab39390813d856022a7b8462578538
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Ramiro Gonzalez <ramiro.gonzalez@balena.io>
+        signed-off-by: Ramiro Gonzalez <ramiro.gonzalez@balena.io>
+      author: Ramiro González Maciel
+      nested: []
+  version: 3.0.45
+  title: "'Improve \"add key\" section on the README file'"
+  date: 2022-08-29T14:43:16.334Z
+- commits:
     - subject: Update readme
       hash: 07690c2f01134969a18236d28fbcf0545aeec7fd
       body: ""

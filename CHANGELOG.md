@@ -5,6 +5,11 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+# v3.0.45
+## (2022-08-29)
+
+* Improve "add key" section on the README file [Ramiro González Maciel]
+
 # v3.0.44
 ## (2022-08-12)
 
