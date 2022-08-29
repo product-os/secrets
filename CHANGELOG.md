@@ -5,6 +5,11 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+# v3.0.46
+## (2022-08-29)
+
+* Grant access to Balena CI Flowzone [Ramiro González Maciel]
+
 # v3.0.45
 ## (2022-08-29)
 

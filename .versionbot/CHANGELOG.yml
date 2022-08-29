@@ -1,4 +1,18 @@
 - commits:
+    - subject: Grant access to Balena CI Flowzone
+      hash: bbf54a1471a1fc5f21aca6bd5dc634260e457663
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Ramiro Gonzalez <ramiro.gonzalez@balena.io>
+        signed-off-by: Ramiro Gonzalez <ramiro.gonzalez@balena.io>
+      author: Ramiro González Maciel
+      nested: []
+  version: 3.0.46
+  title: "'Grant access to Balena CI Flowzone'"
+  date: 2022-08-29T15:17:06.282Z
+- commits:
     - subject: Improve "add key" section on the README file
       hash: 57e0ed3f40ab39390813d856022a7b8462578538
       body: ""
