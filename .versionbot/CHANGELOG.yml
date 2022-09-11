@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update GitHub private key secret
+      hash: a183242c3cf921af946ed1455400bd4aa6638a5f
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.47
+  title: "'Update GitHub private key secret'"
+  date: 2022-09-11T01:08:16.482Z
+- commits:
     - subject: Grant access to Balena CI Flowzone
       hash: bbf54a1471a1fc5f21aca6bd5dc634260e457663
       body: ""
