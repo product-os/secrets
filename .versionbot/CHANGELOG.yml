@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove Kakhabers key
+      hash: b0fee47ae038946b80871c484a4802f7cc1cbd86
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.48
+  title: "'Remove Kakhabers key'"
+  date: 2022-09-12T08:02:26.292Z
+- commits:
     - subject: Update GitHub private key secret
       hash: a183242c3cf921af946ed1455400bd4aa6638a5f
       body: ""

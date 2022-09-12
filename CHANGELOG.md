@@ -5,6 +5,11 @@
 * Add file sync GitHub workflow [Josh Bowling]
 * Add NPM_TOKEN secret, grant access [Josh Bowling]
 
+# v3.0.48
+## (2022-09-12)
+
+* Remove Kakhabers key [Josh Bowling]
+
 # v3.0.47
 ## (2022-09-11)
 
