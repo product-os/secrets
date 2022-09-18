@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove Lucian
+      hash: 5d3c4d736a86962da71d4275376981b87584a8a0
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 3.0.49
+  title: "'Remove Lucian'"
+  date: 2022-09-18T09:55:33.064Z
+- commits:
     - subject: Remove Kakhabers key
       hash: b0fee47ae038946b80871c484a4802f7cc1cbd86
       body: ""
